@@ -13,5 +13,7 @@ public class BrandoCevallos {
     public static void main(String[] args) {
         System.out.println("Prueba1");
 System.out.println("Prueba2Actualizacion");
+System.out.println("Prueba2Actualizacion2");
+System.out.println("Prueba2Actualizacion3");
     }
 }
