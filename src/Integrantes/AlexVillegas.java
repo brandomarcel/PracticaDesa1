@@ -15,7 +15,6 @@ public class AlexVillegas {
         System.out.println("Prueba2Actualizacion4");
         System.out.println("Prueba2Actualizacion4");
         System.out.println("Prueba2Actualizacion4");
-        System.out.println("Soy un pto :v");
         
     }
 }
