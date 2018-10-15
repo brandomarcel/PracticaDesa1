@@ -12,5 +12,6 @@ package Integrantes;
 public class SebastianTayo {
     public static void main(String[] args) {
         System.out.println("Hola :v");
+        System.out.println("kys viejo lesbiano :2");
     }
 }
