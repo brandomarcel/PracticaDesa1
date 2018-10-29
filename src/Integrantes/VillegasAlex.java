@@ -9,7 +9,7 @@ package Integrantes;
  *
  * @author Cbass2
  */
-public class AlexVillegas {
+public class VillegasAlex {
     public static void main(String[] args) {
         System.out.println("Hola bb :3");
         System.out.println("Ptito v:");
