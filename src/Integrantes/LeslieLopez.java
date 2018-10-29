@@ -10,5 +10,5 @@ package Integrantes;
  * @author princ
  */
 public class LeslieLopez {
-    
+    System.out.println("Sebastian estuvo aquí");
 }
