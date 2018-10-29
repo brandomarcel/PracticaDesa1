@@ -9,7 +9,7 @@ package Integrantes;
  *
  * @author Cbass2
  */
-public class SebastianTayo {
+public class TayoSebastian {
     public static void main(String[] args) {
         System.out.println("Hola :v");   
         
